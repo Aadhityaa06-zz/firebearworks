@@ -448,7 +448,7 @@ input[type="submit"] {
 }
 .middle-header button[type="submit"]{
   padding: 10px 29px;
-  background: url(/https://aadhityaa06.github.io/firebearworks/wp-content/themes/advance-ecommerce-store/images/search.png) no-repeat scroll 20px;
+  background: url(http://localhost/https:/aadhityaa06.github.io/firebearworks/wp-content/themes/advance-ecommerce-store/images/search.png) no-repeat scroll 20px;
   text-indent: -9999px;
   border: none;
   cursor: pointer;
